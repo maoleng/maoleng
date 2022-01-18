@@ -18,6 +18,13 @@
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
+```text
+PHP          1 hr 41 mins    ███████████░░░░░░░░░░░░░░   44.64 % 
+JavaScript   1 hr 21 mins    █████████░░░░░░░░░░░░░░░░   36.04 % 
+C            33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Markdown     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+```
 <!--END_SECTION:waka-->
 
 
