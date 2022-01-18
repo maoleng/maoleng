@@ -7,8 +7,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="... Spotify Playing" width="350" />](https://open.spotify.com/user/...)
-
+[<img src="https://spotify-readme-git-master-maoleng.vercel.app/api/spotify-playing" alt="... Spotify Playing" width="350" />](https://open.spotify.com/user/...)
 ---
 
 <br>
@@ -16,7 +15,7 @@
 <br>
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/maoleng/maoleng?style=plastic)
-
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/maoleng/maoleng)
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
@@ -41,3 +40,6 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 - [TalesRunner - Dash đỏ](https://www.youtube.com/watch?v=3ykgWo7IYVY)
 <!-- YOUTUBE:END -->
 
+
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=maoleng&show_icons=true&hide_border=true" />
