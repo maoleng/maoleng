@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at TDTU
 - 📫 How to reach me:
 <a href = "https://discordapp.com/users/573805531773272064">
-  <img align="center" src="https://discord.c99.nl/widget/theme-3/517725152327499806.png" alt="Discord"/>
+  <img align="center" src="https://discord.c99.nl/widget/theme-4/517725152327499806.png" alt="Discord"/>
 </a>
 
 
