@@ -32,5 +32,10 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 ---
 ### Last Youtube videos
 <!-- YOUTUBE:START -->
+- [Talesrunner](https://www.youtube.com/watch?v=qo5Av4bfCM4)
+- [Gogorun - Hướng dẫn câu cá](https://www.youtube.com/watch?v=73_-0yzjK-M)
+- [Talesrunner - Hướng dẫn mặc đồ và nhiệm vụ tân thủ](https://www.youtube.com/watch?v=2MCOw0Ca6YA)
+- [TalesRunner - Two Brothers 1 - 1:13:65](https://www.youtube.com/watch?v=zzl7wfybhis)
+- [TalesRunner - Dash đỏ](https://www.youtube.com/watch?v=3ykgWo7IYVY)
 <!-- YOUTUBE:END -->
 
