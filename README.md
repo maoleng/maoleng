@@ -12,6 +12,7 @@
 ---
 
 <br>
+![GitHub commit activity](https://img.shields.io/github/commit-activity/w/maoleng/maoleng?style=plastic)
 <br>
 
 
