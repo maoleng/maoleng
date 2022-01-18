@@ -1,21 +1,15 @@
 ### Hi fellows 👋
 
-- 🔭 I’m currently working on [J2TeamNNL]
-- 💬 Ask me about every thing
-- 📫 How to reach me: [Facebook]
-- ⚡ Fun fact: I share... a lot!
+- 🔭 I’m currently working at TDTU
+
+- 📫 **Contact me:** [Mao Leng#2843](https://discordapp.com/users/517725152327499806)
 
 
 ### Spotify Playing 🎧
 [<img src="https://spotify-readme-git-master-maoleng.vercel.app/api/spotify-playing" alt="... Spotify Playing" width="350" />](https://open.spotify.com/user/...)
 ---
-
 <br>
-
 <br>
-
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/maoleng/maoleng?style=plastic)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/maoleng/maoleng)
 ---
 ### Development Stats
 <!--START_SECTION:waka-->
@@ -30,16 +24,7 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
----
-### Last Youtube videos
-<!-- YOUTUBE:START -->
-- [Talesrunner](https://www.youtube.com/watch?v=qo5Av4bfCM4)
-- [Gogorun - Hướng dẫn câu cá](https://www.youtube.com/watch?v=73_-0yzjK-M)
-- [Talesrunner - Hướng dẫn mặc đồ và nhiệm vụ tân thủ](https://www.youtube.com/watch?v=2MCOw0Ca6YA)
-- [TalesRunner - Two Brothers 1 - 1:13:65](https://www.youtube.com/watch?v=zzl7wfybhis)
-- [TalesRunner - Dash đỏ](https://www.youtube.com/watch?v=3ykgWo7IYVY)
-<!-- YOUTUBE:END -->
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maoleng&theme=cobalt)
 
----
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=maoleng&show_icons=true&hide_border=true" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoleng&layout=compact)
