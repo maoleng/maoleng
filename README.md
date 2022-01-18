@@ -1,7 +1,10 @@
 ### Hi fellows 👋
 
 - 🔭 I’m currently working at TDTU
-- 📫 How to reach me: Mao Leng#2843
+- 📫 How to reach me:
+<a href = "https://discordapp.com/users/573805531773272064">
+  <img align="center" src="https://discord.c99.nl/widget/theme-3/517725152327499806.png" alt="Discord"/>
+</a>
 
 
 ### Spotify Playing 🎧
@@ -29,8 +32,3 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maoleng&theme=cobalt)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoleng&layout=compact)
-
-<br><br><br><br>
-<a href = "https://discordapp.com/users/573805531773272064">
-  <img align="center" src="https://discord.c99.nl/widget/theme-3/517725152327499806.png" alt="Discord"/>
-</a>
