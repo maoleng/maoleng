@@ -1,8 +1,8 @@
 ### Hi fellows 👋
 
 - 🔭 I’m currently working at TDTU
-
-- 📫 **Contact me:** [Mao Leng#2843](https://discordapp.com/users/517725152327499806)
+- 📫 How to reach me: 
+- 📫 **Contact me:** [LynCute#2004](https://discordapp.com/users/573805531773272064)
 
 
 ### Spotify Playing 🎧
@@ -23,8 +23,3 @@ Markdown     5 mins          ▓░░░░░░░░░░░░░░░░
 HTML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
 ```
 <!--END_SECTION:waka-->
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maoleng&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoleng&layout=compact)
