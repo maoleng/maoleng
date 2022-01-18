@@ -11,7 +11,6 @@
 [<img src="https://spotify-readme-git-master-maoleng.vercel.app/api/spotify-playing" alt="... Spotify Playing" width="350" />](https://open.spotify.com/user/...)
 ---
 <br>
----
 
 ### Development Stats
 <!--START_SECTION:waka-->
