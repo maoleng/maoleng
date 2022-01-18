@@ -27,4 +27,8 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
+---
+### Last Youtube videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
