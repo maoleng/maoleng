@@ -1,8 +1,7 @@
 ### Hi fellows 👋
 
 - 🔭 I’m currently working at TDTU
-- 📫 How to reach me: 
-- 📫 **Contact me:** [LynCute#2004](https://discordapp.com/users/573805531773272064)
+- 📫 How to reach me: Mao Leng#2843
 
 
 ### Spotify Playing 🎧
@@ -25,3 +24,11 @@ HTML         4 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
+<br>
+<br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=LynCute2004&theme=cobalt" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LynCute2004&layout=compact)
+
+
