@@ -26,6 +26,7 @@ C            33 mins         █▒░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maoleng&theme=cobalt)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maoleng&layout=compact)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=maoleng&theme=cobalt">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maoleng&layout=compact">
+</p>
