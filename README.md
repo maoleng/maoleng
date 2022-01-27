@@ -28,6 +28,6 @@ C++          16 mins         ▒░░░░░░░░░░░░░░░░
 ---
 <img src = "https://activity-graph.herokuapp.com/graph?username=maoleng&theme=react-dark">
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=maoleng&theme=radical&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=maoleng&theme=radical&line_height=25">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maoleng&layout=compact&theme=radical">
 </p>
