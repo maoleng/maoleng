@@ -28,6 +28,7 @@ C++          16 mins         ▒░░░░░░░░░░░░░░░░
 ---
 ### Last commit in 31 days
 <img src = "https://activity-graph.herokuapp.com/graph?username=maoleng&theme=react-dark">
+---
 ### Github Stats
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=maoleng&theme=radical&line_height=25">
