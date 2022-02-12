@@ -17,11 +17,11 @@
 ```text
 Week: 05 February, 2022 - 11 February, 2022
 
-PHP                   16 hrs 18 mins  ████████████████▓░░░░░░░░   66.63 % 
-HTML                  4 hrs 8 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.92 % 
-JavaScript            2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-CSS                   1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Sublime Text Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+PHP                   17 hrs 14 mins  ████████████████▓░░░░░░░░   66.95 % 
+HTML                  5 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+CSS                   1 hr 53 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+JavaScript            1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
+Sublime Text Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 ```
 <!--END_SECTION:waka-->
 
