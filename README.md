@@ -15,7 +15,7 @@
 ### Development Stats
 <!--START_SECTION:waka-->
 ```text
-Week: 05 February, 2022 - 11 February, 2022
+Week: 06 February, 2022 - 12 February, 2022
 
 PHP                   17 hrs 14 mins  ████████████████▓░░░░░░░░   66.95 % 
 HTML                  5 hrs 7 mins    █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
