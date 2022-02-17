@@ -14,17 +14,6 @@
 
 ### Development Stats
 <!--START_SECTION:waka-->
-```text
-Week: 09 February, 2022 - 15 February, 2022
-
-Total: 25 hrs 22 mins
-
-PHP          18 hrs 17 mins  ██████████████████░░░░░░░   72.08 % 
-HTML         5 hrs 6 mins    █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-JavaScript   1 hr 26 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-CSS          30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 % 
-Java         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-```
 <!--END_SECTION:waka-->
 
 ---
