@@ -30,8 +30,6 @@
 ```text
 Week: 12 February, 2022 - 18 February, 2022
 
-Total: 16 hrs 44 mins
-
 PHP          11 hrs 12 mins  ████████████████▓░░░░░░░░   66.90 % 
 HTML         4 hrs 16 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.52 % 
 JavaScript   1 hr 9 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
