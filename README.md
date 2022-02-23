@@ -28,13 +28,13 @@
 ### Development Stats
 <!--START_SECTION:waka-->
 ```text
-From: 15 February, 2022 - To: 22 February, 2022
+From: 16 February, 2022 - To: 23 February, 2022
 
-PHP      9 hrs 52 mins   █████████████░░░░░░░░░░░░   51.92 % 
-HTML     4 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.36 % 
-Java     1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
-CSS      1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-Python   59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
+PHP      13 hrs 52 mins  ███████████████▒░░░░░░░░░   60.77 % 
+HTML     3 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.46 % 
+Java     1 hr 56 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
+CSS      1 hr 13 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 % 
+Python   59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
 ```
 <!--END_SECTION:waka-->
 
