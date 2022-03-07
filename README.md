@@ -42,9 +42,9 @@ JavaScript   15 mins         █░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-### Last commit in 31 days
-<img src = "https://activity-graph.herokuapp.com/graph?username=maoleng&theme=react-dark">
-
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 ---
 ### Github Stats
 <p align = "center">
