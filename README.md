@@ -49,6 +49,20 @@ Other    0 secs          ░░░░░░░░░░░░░░░░░░�
 - [BUỔI HỘI THẢO ĐẦU TIÊN](https://maolengbhl.blogspot.com/2022/01/buoi-hoi-thao-au-tien.html)
 - [Kì thi kết thúc môn đầu tiên của mình ở Đại học](https://maolengbhl.blogspot.com/2022/01/ki-thi-ket-thuc-mon-au-tien-cua-minh-o.html)
 <!-- BLOG-POST-LIST:END -->
+
+---
+### Badges and Certificates
+<a href="https://www.hackerrank.com/maoleng">
+  <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/badge_sql.png?raw=true" width="100px">
+</a>
+<br>
+<a href="https://www.hackerrank.com/certificates/92a70aea55ca">
+  <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/sql_basic.png?raw=true" width="100px">
+</a>
+<a href="https://www.hackerrank.com/certificates/60e7b2754324">
+  <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/sql_intermediate.png?raw=true" width="100px">
+</a>
+
 ---
 ### Github Stats
 <p align = "center">
