@@ -29,14 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 March 2022 - To: 13 March 2022
+From: 07 March 2022 - To: 14 March 2022
 
-PHP                   7 hrs 31 mins   ██████████████▒░░░░░░░░░░   57.66 %
-Java                  2 hrs 59 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.89 %
-HTML                  1 hr 53 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Python                29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-Sublime Text Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JavaScript            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
+PHP                   11 hrs 39 mins  █████████████████░░░░░░░░   68.28 %
+Java                  2 hrs 59 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+HTML                  1 hr 30 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.86 %
+Python                29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+JavaScript            17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
+Sublime Text Config   6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
