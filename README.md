@@ -29,12 +29,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 March 2022 - To: 01 April 2022
+From: 26 March 2022 - To: 02 April 2022
 
-PHP              24 mins         ███████████████████████░░   91.76 %
-Blade Template   1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
-Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.40 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+Blade Template   0 secs          ██████████▒░░░░░░░░░░░░░░   41.07 %
+PHP              0 secs          █████████▒░░░░░░░░░░░░░░░   37.09 %
+Markdown         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 ```
 
 <!--END_SECTION:waka-->
