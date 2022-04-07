@@ -29,7 +29,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 31 March 2022 - To: 07 April 2022
+
+PHP              36 hrs 20 mins  █████████████░░░░░░░░░░░░   52.21 %
+JavaScript       20 hrs 39 mins  ███████▒░░░░░░░░░░░░░░░░░   29.67 %
+TypeScript       5 hrs 58 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 %
+SCSS             1 hr 35 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
+Blade Template   1 hr 9 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+Java             45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
