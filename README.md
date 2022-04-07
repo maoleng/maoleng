@@ -29,12 +29,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2022 - To: 06 April 2022
-
-Blade Template   0 secs          ██████████▒░░░░░░░░░░░░░░   41.07 %
-PHP              0 secs          █████████▒░░░░░░░░░░░░░░░   37.09 %
-Markdown         0 secs          █████▒░░░░░░░░░░░░░░░░░░░   21.71 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
