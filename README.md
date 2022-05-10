@@ -44,6 +44,7 @@ HTML             2 hrs 11 mins   ▓░░░░░░░░░░░░░░�
 ---
 ### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Chia sẻ về cuộc sống hiện tại &lpar;10/05/2022&rpar;](https://maolengbhl.blogspot.com/2022/05/chia-se-ve-cuoc-song-hien-tai-10052022.html)
 - [NoSQL tiếp tục phát triển, nhưng cơ sở dữ liệu quan hệ &lpar;SQL&rpar; vẫn chiếm một dữ liệu lớn](https://maolengbhl.blogspot.com/2022/03/nosql-tiep-tuc-phat-trien-nhung-co-so.html)
 - [Đồ án đầu tiên](https://maolengbhl.blogspot.com/2022/03/o-au-tien.html)
 - [BUỔI HỘI THẢO ĐẦU TIÊN](https://maolengbhl.blogspot.com/2022/01/buoi-hoi-thao-au-tien.html)
