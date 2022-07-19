@@ -23,6 +23,7 @@
   </tr>
 </table>
 
+
 <br>
 
 ### Development Stats
@@ -53,16 +54,50 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 
 ---
 ### Badges and Certificates
+<table border="2px solid white" align="center">
+<td width="30%">
 <a href="https://www.hackerrank.com/maoleng">
-  <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/badge_sql.png?raw=true" width="100px">
+<img src="https://github.com/maoleng/media/blob/huuloc/maoleng/badge_sql.png?raw=true" width="100px">
 </a>
 <br>
 <a href="https://www.hackerrank.com/certificates/92a70aea55ca">
-  <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/sql_basic.png?raw=true" width="100px">
+<img src="https://github.com/maoleng/media/blob/huuloc/maoleng/sql_basic.png?raw=true" width="100px">
 </a>
 <a href="https://www.hackerrank.com/certificates/60e7b2754324">
-  <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/sql_intermediate.png?raw=true" width="100px">
+<img src="https://github.com/maoleng/media/blob/huuloc/maoleng/sql_intermediate.png?raw=true" width="100px">
 </a>
+</td>
+<td width="70%">
+<p align="center">
+<img src="https://wakatime.com/badge/user/f88bc81e-1487-40a4-abd6-8b8ee1b701fb.svg">
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
+</p>
+</td>
+</table>
 
 ---
 ### Github Stats
