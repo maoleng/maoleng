@@ -56,10 +56,11 @@ Text             0 secs          ░░░░░░░░░░░░░░░�
 ### Badges and Certificates
 <table border="2px solid white" align="center">
 <td width="30%">
+<p align="center">
 <a href="https://www.hackerrank.com/maoleng">
 <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/badge_sql.png?raw=true" width="100px">
 </a>
-<br>
+</p>
 <a href="https://www.hackerrank.com/certificates/92a70aea55ca">
 <img src="https://github.com/maoleng/media/blob/huuloc/maoleng/sql_basic.png?raw=true" width="100px">
 </a>
