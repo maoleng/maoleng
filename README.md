@@ -102,6 +102,9 @@ Markdown         3 mins          ░░░░░░░░░░░░░░░�
 
 ---
 ### Github Stats
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=maoleng&style=for-the-badge">
+</p>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=maoleng&theme=radical&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=maoleng&count_private=true&theme=radical&langs_count=3">
