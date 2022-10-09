@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 October 2022 - To: 08 October 2022
+From: 02 October 2022 - To: 09 October 2022
 
-PHP              25 hrs 54 mins  ██████████████████████▓░░   90.43 %
-Blade Template   2 hrs 36 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
-Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-.env file        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+PHP              28 hrs 6 mins   █████████████████████░░░░   83.38 %
+Blade Template   5 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.20 %
+Markdown         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+.env file        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+TypeScript       1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
