@@ -1,7 +1,7 @@
 <h2 align="center">Hi fellows 👋 I'm Loc</h2>
 
 - 🔭 I’m currently working at **TDTU**
-- 🌱 I’m currently learning **Laravel and Linux**
+- 🌱 I’m currently working with **Laravel and Linux**
 <br>
 <table border="2px solid white" align="center">
   <tr>
