@@ -12,12 +12,12 @@
   <tr>
     <td>
       <a href="https://open.spotify.com/user/jo3t0sjswxmpet9c67mq6qph3">
-        <img src="https://spotify-readme-git-master-maoleng.vercel.app/api/spotify-playing" alt="... Spotify Playing"  height="160px" />
+        <img src="https://spotify-readme-git-master-maoleng.vercel.app/api/spotify-playing" alt="... Spotify Playing"   />
       </a>
     </td>
     <td>
       <a href = "https://discordapp.com/users/517725152327499806">
-        <img align="" src="https://lanyard.cnrad.dev/api/517725152327499806" alt="Discord" align="right" width="400"/>
+        <img align="" src="https://lanyard.cnrad.dev/api/517725152327499806" alt="Discord" align="right" width="95%"/>
       </a>
     </td>
   </tr>
