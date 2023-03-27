@@ -30,10 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 March 2023 - To: 26 March 2023
+From: 20 March 2023 - To: 27 March 2023
 
-PHP        2 hrs 54 mins   █████████████████████████   99.85 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+PHP              5 hrs 13 mins   ████████████████████████▓   98.14 %
+GitIgnore file   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Bash             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
