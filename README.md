@@ -30,14 +30,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 April 2023 - To: 29 April 2023
+From: 23 April 2023 - To: 30 April 2023
 
-PHP              6 hrs 49 mins   ████████████████████████▒   97.43 %
-Bash             5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-.env file        3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-htaccess         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-textmate         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+PHP   14 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
