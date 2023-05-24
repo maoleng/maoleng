@@ -30,13 +30,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 May 2023 - To: 23 May 2023
+From: 17 May 2023 - To: 24 May 2023
 
-PHP              1 hr 47 mins    █████████████████████░░░░   84.26 %
-Bash             10 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 %
-.env file        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
-GitIgnore file   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+GitIgnore file   3 mins          ███████████████████░░░░░░   76.12 %
+PHP              0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.71 %
+Markdown         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
