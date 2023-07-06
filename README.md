@@ -30,10 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2023 - To: 05 July 2023
+From: 29 June 2023 - To: 06 July 2023
 
-PHP              7 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.71 %
-Blade Template   5 hrs 18 mins   █████████▓░░░░░░░░░░░░░░░   38.90 %
+PHP              7 hrs 52 mins   ██████████████▒░░░░░░░░░░   57.85 %
+Blade Template   5 hrs 18 mins   █████████▓░░░░░░░░░░░░░░░   38.99 %
 Bash             11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.43 %
 HTML             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
 JSON             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
