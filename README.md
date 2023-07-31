@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 July 2023 - To: 30 July 2023
+From: 24 July 2023 - To: 31 July 2023
 
-TypeScript       12 hrs 42 mins  ██████████▒░░░░░░░░░░░░░░   41.71 %
-PHP              8 hrs 57 mins   ███████▒░░░░░░░░░░░░░░░░░   29.37 %
-JavaScript       3 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
-Blade Template   1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Vue.js           1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+TypeScript       14 hrs 28 mins  ███████████▓░░░░░░░░░░░░░   46.76 %
+PHP              6 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
+JavaScript       4 hrs 18 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 %
+Blade Template   1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+Vue.js           1 hr 13 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
 ```
 
 <!--END_SECTION:waka-->
