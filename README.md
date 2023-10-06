@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 September 2023 - To: 05 October 2023
+From: 29 September 2023 - To: 06 October 2023
 
-PHP              19 hrs 35 mins  ████████████████▓░░░░░░░░   66.92 %
-Blade Template   5 hrs 24 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
-Java             2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 %
-JavaScript       1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-JSON             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+PHP                   17 hrs 27 mins  ███████████████░░░░░░░░░░   60.35 %
+Java                  3 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.41 %
+Blade Template        3 hrs 33 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.30 %
+XML                   1 hr 25 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.90 %
+JavaScript            1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->
