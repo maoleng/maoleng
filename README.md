@@ -32,11 +32,7 @@
 ```txt
 From: 13 November 2023 - To: 20 November 2023
 
-PHP               6 hrs 58 mins   ██████████████▓░░░░░░░░░░   58.44 %
-Blade Template    3 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-Java              44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.17 %
-Bash              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-XML               18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
