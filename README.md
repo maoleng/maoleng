@@ -30,11 +30,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 November 2023 - To: 28 November 2023
+From: 22 November 2023 - To: 29 November 2023
 
-Blade Template   48 mins         █████████████▒░░░░░░░░░░░   53.82 %
-PHP              41 mins         ███████████▒░░░░░░░░░░░░░   45.96 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Blade Template   48 mins         █████████████▒░░░░░░░░░░░   53.91 %
+PHP              41 mins         ███████████▓░░░░░░░░░░░░░   46.03 %
 CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
