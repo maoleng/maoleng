@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 December 2023 - To: 23 December 2023
+From: 17 December 2023 - To: 24 December 2023
 
-Java                22 hrs 22 mins  ████████████▓░░░░░░░░░░░░   51.05 %
-HTML                8 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.21 %
-PHP                 7 hrs 57 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
-GUI_DESIGNER_FORM   2 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-JSON                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Java                18 hrs 32 mins  ████████████▒░░░░░░░░░░░░   48.83 %
+PHP                 7 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.99 %
+HTML                6 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+GUI_DESIGNER_FORM   2 hrs 29 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+JSON                24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
