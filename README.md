@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 February 2024 - To: 22 February 2024
+From: 16 February 2024 - To: 23 February 2024
 
-PHP              7 hrs 58 mins   ████████████▓░░░░░░░░░░░░   51.15 %
-JavaScript       4 hrs 4 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.21 %
-JSON             2 hrs 20 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-CSS              30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
-HTML             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+PHP              7 hrs 49 mins   █████████████▒░░░░░░░░░░░   53.54 %
+JavaScript       3 hrs 15 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.27 %
+JSON             2 hrs 19 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.90 %
+CSS              30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+HTML             24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
 ```
 
 <!--END_SECTION:waka-->
