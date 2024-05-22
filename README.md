@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 May 2024 - To: 21 May 2024
+From: 15 May 2024 - To: 22 May 2024
 
-Blade Template   13 hrs 47 mins  ███████████▒░░░░░░░░░░░░░   44.99 %
-PHP              12 hrs 43 mins  ██████████▒░░░░░░░░░░░░░░   41.49 %
-JavaScript       1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-HTML             40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 %
-JSON             29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
+Blade Template   14 hrs 41 mins  ███████████▒░░░░░░░░░░░░░   45.78 %
+PHP              13 hrs 32 mins  ██████████▓░░░░░░░░░░░░░░   42.18 %
+JavaScript       1 hr 29 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+.env file        32 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+HTML             28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
