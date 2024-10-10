@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 October 2024 - To: 09 October 2024
+From: 03 October 2024 - To: 10 October 2024
 
-PHP              10 hrs 48 mins  █████████████████▓░░░░░░░   70.60 %
-Blade Template   4 hrs 6 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.80 %
-Other            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Log              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+PHP              11 hrs 43 mins  █████████████████▒░░░░░░░   68.79 %
+Blade Template   3 hrs 52 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.72 %
+JSON             33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 %
+CSV              18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Other            16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
