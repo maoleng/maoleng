@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 November 2024 - To: 08 November 2024
+From: 02 November 2024 - To: 09 November 2024
 
-PHP              10 hrs 39 mins  ██████████████▒░░░░░░░░░░   56.92 %
-TypeScript       5 hrs 38 mins   ███████▓░░░░░░░░░░░░░░░░░   30.16 %
-Other            56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Markdown         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
-Blade Template   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
+PHP              11 hrs 1 min    ██████████████▒░░░░░░░░░░   56.87 %
+TypeScript       5 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.10 %
+Other            1 hr 14 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
+Markdown         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Blade Template   21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
