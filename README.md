@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2024 - To: 20 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
-PHP              40 hrs 5 mins   █████████████████████░░░░   84.44 %
-Other            2 hrs 9 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Log              1 hr 56 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 %
-TypeScript       1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 %
-Bash             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+PHP              37 hrs 30 mins  █████████████████████░░░░   83.60 %
+Other            2 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 %
+Log              2 hrs 3 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TypeScript       1 hr 12 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Bash             34 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
 ```
 
 <!--END_SECTION:waka-->
