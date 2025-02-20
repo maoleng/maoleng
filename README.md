@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2025 - To: 19 February 2025
+From: 13 February 2025 - To: 20 February 2025
 
-PHP              5 hrs 6 mins    ██████████████░░░░░░░░░░░   55.68 %
-TypeScript       2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.40 %
-Blade Template   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Markdown         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+PHP              5 hrs 16 mins   █████████████▓░░░░░░░░░░░   54.64 %
+TypeScript       2 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.34 %
+Blade Template   55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+Markdown         14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+JavaScript       8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
