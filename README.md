@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 July 2025 - To: 31 July 2025
+From: 25 July 2025 - To: 01 August 2025
 
-TypeScript       7 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.99 %
-PHP              5 hrs 7 mins    ████████▓░░░░░░░░░░░░░░░░   35.26 %
-Docker           53 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-SQL              22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-JavaScript       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+TypeScript       10 hrs 19 mins  ████████████░░░░░░░░░░░░░   48.65 %
+PHP              8 hrs 49 mins   ██████████▒░░░░░░░░░░░░░░   41.57 %
+Docker           42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+SQL              22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JavaScript       14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 ```
 
 <!--END_SECTION:waka-->
