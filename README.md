@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 August 2025 - To: 09 August 2025
+From: 03 August 2025 - To: 10 August 2025
 
-TypeScript       3 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.26 %
-PHP              3 hrs 42 mins   ███████░░░░░░░░░░░░░░░░░░   28.52 %
-Ruby             2 hrs 37 mins   █████░░░░░░░░░░░░░░░░░░░░   20.20 %
-Markdown         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-.env file        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+TypeScript       4 hrs 39 mins   ████████▒░░░░░░░░░░░░░░░░   32.85 %
+PHP              4 hrs 1 min     ███████░░░░░░░░░░░░░░░░░░   28.40 %
+Ruby             2 hrs 37 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.53 %
+Markdown         1 hr 3 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+.env file        35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
 ```
 
 <!--END_SECTION:waka-->
