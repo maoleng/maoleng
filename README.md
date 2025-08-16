@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2025 - To: 15 August 2025
+From: 09 August 2025 - To: 16 August 2025
 
-TypeScript       4 hrs 2 mins    ███████████▓░░░░░░░░░░░░░   47.08 %
-Ruby             1 hr 40 mins    █████░░░░░░░░░░░░░░░░░░░░   19.53 %
-PHP              1 hr 38 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.03 %
-yarn.lock        37 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
-GitIgnore file   28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.50 %
+Ruby             1 hr 40 mins    ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+TypeScript       1 hr 34 mins    ███████░░░░░░░░░░░░░░░░░░   27.82 %
+PHP              1 hr 2 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+yarn.lock        37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
+GitIgnore file   28 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
 ```
 
 <!--END_SECTION:waka-->
