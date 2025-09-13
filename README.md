@@ -30,7 +30,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 September 2025 - To: 12 September 2025
+From: 06 September 2025 - To: 13 September 2025
 
 TypeScript       3 hrs 19 mins   ██████████▓░░░░░░░░░░░░░░   42.85 %
 Ruby             2 hrs 32 mins   ████████▒░░░░░░░░░░░░░░░░   32.72 %
