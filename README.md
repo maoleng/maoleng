@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2025 - To: 23 September 2025
+From: 17 September 2025 - To: 24 September 2025
 
-Ruby             1 hr 34 mins    ███████████████████████░░   91.43 %
-JSON             8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 %
-Blade Template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Bash             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Ruby             1 hr 22 mins    ████████████████████░░░░░   80.47 %
+JSON             9 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
+TypeScript       8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 %
+textmate         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
