@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 September 2025 - To: 06 October 2025
+From: 30 September 2025 - To: 07 October 2025
 
-Blade Template   2 hrs 37 mins   ████████████░░░░░░░░░░░░░   48.44 %
-TypeScript       1 hr 17 mins    ██████░░░░░░░░░░░░░░░░░░░   23.93 %
-Vue.js           52 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.00 %
-Image (svg)      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
-PHP              9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Vue.js           1 hr 35 mins    ███████▓░░░░░░░░░░░░░░░░░   31.03 %
+TypeScript       1 hr 26 mins    ███████░░░░░░░░░░░░░░░░░░   27.87 %
+Blade Template   1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.62 %
+Ruby             32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.40 %
+Image (svg)      12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
 ```
 
 <!--END_SECTION:waka-->
