@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 October 2025 - To: 14 October 2025
+From: 08 October 2025 - To: 15 October 2025
 
-Blade Template   56 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
-Bash             48 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.74 %
-PHP              36 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.44 %
-TypeScript       35 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.10 %
-JSON             34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.85 %
+Vue.js           28 mins         █████████░░░░░░░░░░░░░░░░   35.36 %
+Bash             17 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.66 %
+TypeScript       14 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+Ruby             9 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.44 %
+textmate         7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
 ```
 
 <!--END_SECTION:waka-->
