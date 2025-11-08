@@ -30,13 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 October 2025 - To: 07 November 2025
+From: 01 November 2025 - To: 08 November 2025
 
-Ruby         57 mins         ███████████████░░░░░░░░░░   59.84 %
-TypeScript   19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
+Ruby         57 mins         ███████████████░░░░░░░░░░   59.85 %
+TypeScript   19 mins         █████░░░░░░░░░░░░░░░░░░░░   20.05 %
 Vue.js       19 mins         █████░░░░░░░░░░░░░░░░░░░░   19.97 %
 YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
-PHP          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
