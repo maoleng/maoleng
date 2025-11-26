@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Ruby         42 mins         ███████████▒░░░░░░░░░░░░░   44.70 %
-Vue.js       21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
-TypeScript   20 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.01 %
-CSV/TSV      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-Bash         4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
+Ruby         1 hr 6 mins     ██████████████▓░░░░░░░░░░   58.39 %
+Vue.js       21 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
+TypeScript   20 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.68 %
+CSV/TSV      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
