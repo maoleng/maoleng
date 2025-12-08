@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-PHP          1 hr 25 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.45 %
-Ruby         1 hr 13 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
-Vue.js       1 hr 9 mins     █████▒░░░░░░░░░░░░░░░░░░░   21.64 %
-TypeScript   1 hr 5 mins     █████░░░░░░░░░░░░░░░░░░░░   20.46 %
-YAML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+PHP          1 hr 25 mins    ███████░░░░░░░░░░░░░░░░░░   28.20 %
+Vue.js       1 hr 9 mins     █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+TypeScript   1 hr 1 min      █████░░░░░░░░░░░░░░░░░░░░   20.36 %
+Ruby         58 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
+YAML         14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 %
 ```
 
 <!--END_SECTION:waka-->
