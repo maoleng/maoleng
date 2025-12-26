@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 December 2025 - To: 25 December 2025
+From: 19 December 2025 - To: 26 December 2025
 
-Ruby             1 hr 33 mins    ██████████████▓░░░░░░░░░░   58.37 %
-Vue.js           35 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.00 %
-TypeScript       26 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.39 %
-YAML             4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
-.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Ruby             1 hr            ██████████░░░░░░░░░░░░░░░   40.65 %
+TypeScript       46 mins         ████████░░░░░░░░░░░░░░░░░   31.57 %
+Vue.js           33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
+Blade Template   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
 ```
 
 <!--END_SECTION:waka-->
