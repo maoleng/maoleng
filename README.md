@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-Ruby             1 hr            ██████████░░░░░░░░░░░░░░░   40.66 %
-TypeScript       46 mins         ████████░░░░░░░░░░░░░░░░░   31.58 %
-Vue.js           33 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Blade Template   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
-Markdown         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Ruby             1 hr 1 min      █████████▒░░░░░░░░░░░░░░░   37.42 %
+TypeScript       46 mins         ███████░░░░░░░░░░░░░░░░░░   28.16 %
+Vue.js           33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+.env file        10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
+Blade Template   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
 
 <!--END_SECTION:waka-->
