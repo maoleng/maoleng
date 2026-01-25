@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 January 2026 - To: 24 January 2026
+From: 18 January 2026 - To: 25 January 2026
 
-TypeScript       1 hr 15 mins    █████████▓░░░░░░░░░░░░░░░   38.64 %
-JSON             35 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.19 %
-CSS              34 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.65 %
-JavaScript       32 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.45 %
-.env file        9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+PHP              1 hr 16 mins    ████████████████▓░░░░░░░░   66.97 %
+TypeScript       20 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
+Bash             11 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+.env file        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Blade Template   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
