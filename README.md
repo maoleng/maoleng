@@ -30,9 +30,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2026 - To: 09 June 2026
+From: 03 June 2026 - To: 10 June 2026
 
-No activity tracked
+Bash        3 mins                ████████████▒░░░░░░░░░░░░   48.72 %
+JSON        3 mins                ███████████▒░░░░░░░░░░░░░   45.52 %
+.env file   0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
+Markdown    0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
 ```
 
 <!--END_SECTION:waka-->
