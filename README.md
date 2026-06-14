@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2026 - To: 13 June 2026
+From: 07 June 2026 - To: 14 June 2026
 
-Image (svg)      17 mins               ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-Blade Template   15 mins               ██████▓░░░░░░░░░░░░░░░░░░   26.55 %
-.env file        10 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-PHP              5 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.80 %
-JSON             4 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
+PHP              1 hr 24 mins          ██████████████▒░░░░░░░░░░   57.15 %
+Image (svg)      17 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Blade Template   15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+.env file        15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
+TypeScript       4 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
 ```
 
 <!--END_SECTION:waka-->
