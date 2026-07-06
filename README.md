@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 June 2026 - To: 05 July 2026
+From: 29 June 2026 - To: 06 July 2026
 
-PHP              2 hrs 15 mins         ██████████████░░░░░░░░░░░   56.63 %
-Blade Template   1 hr 21 mins          ████████▓░░░░░░░░░░░░░░░░   34.16 %
-Log              12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
-Other            6 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-TypeScript       1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+PHP              2 hrs 37 mins         ████████░░░░░░░░░░░░░░░░░   32.27 %
+TypeScript       2 hrs 32 mins         ███████▓░░░░░░░░░░░░░░░░░   31.29 %
+Blade Template   1 hr 21 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.75 %
+JSON             30 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
+JavaScript       19 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
 ```
 
 <!--END_SECTION:waka-->
