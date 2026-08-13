@@ -30,13 +30,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-PHP              15 hrs                █████████████████░░░░░░░░   67.40 %
-TypeScript       2 hrs 25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.92 %
-Log              1 hr 46 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-.env file        1 hr 4 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.86 %
-Markdown         50 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+PHP              11 hrs 37 mins        ████████████████░░░░░░░░░   63.68 %
+Log              1 hr 36 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.83 %
+TypeScript       1 hr 21 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+.env file        1 hr 13 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.71 %
+Blade Template   53 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
 ```
 
 <!--END_SECTION:waka-->
